@@ -1,0 +1,22 @@
+[
+  {
+    "titulo": "Tomás Maldonado",
+    "descripcion": "Pionero del diseño industrial y teórico clave. Integrante del movimiento Arte Concreto-Invención y rector de la legendaria Escuela de Ulm.",
+    "detalles": "Especialidad: Teoría del diseño, pedagogía visual e imagen institucional"
+  },
+  {
+    "titulo": "Ronald Shakespear",
+    "descripcion": "Referente indispensable del diseño gráfico argentino, responsable de la señalética del Subte de Buenos Aires y de los hospitales municipales.",
+    "detalles": "Especialidad: Identidad urbana, señalética y diseño de información"
+  },
+  {
+    "titulo": "Rubén Fontana",
+    "descripcion": "Tipógrafo y diseñador gráfico, fundador de la revista tipoGráfica e impulsor de la carrera de Diseño Gráfico en la Universidad de Buenos Aires.",
+    "detalles": "Especialidad: Tipografía, diseño editorial e identidad corporativa"
+  },
+  {
+    "titulo": "Amancio Williams",
+    "descripcion": "Arquitecto y diseñador vanguardista del movimiento moderno en Argentina, recordado por la innovadora Casa sobre el Arroyo en Mar del Plata.",
+    "detalles": "Especialidad: Arquitectura moderna, mobiliario y diseño espacial"
+  }
+]
