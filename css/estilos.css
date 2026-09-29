@@ -91,6 +91,7 @@ button {
     box-shadow: 0 3px 6px var(--color-sombra);
 }
 
+/* Para que cambie de color cuando paso el cursor por arriba */
 button:hover {
     background-color: var(--color-boton-hover);
 }
