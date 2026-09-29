@@ -25,10 +25,11 @@ function cargarDisenadores() {
 botonCargar.addEventListener("click", cargarDisenadores);
 
 /* Boton para cambiar aspecto */
+botonCargar.addEventListener("click", cargarDisenadores);
+
+/* Botón para cambiar aspecto */
 const botonTema = document.getElementById("aspecto");
 
-function alternarTema() {
+botonTema.addEventListener("click", () => {
     document.body.classList.toggle("tema-oscuro");
-}
-
-botonTema.addEventListener("click", alternarTema);
+});
