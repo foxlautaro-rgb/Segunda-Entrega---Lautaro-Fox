@@ -24,10 +24,8 @@ function cargarDisenadores() {
 
 botonCargar.addEventListener("click", cargarDisenadores);
 
-/* Boton para cambiar aspecto */
-botonCargar.addEventListener("click", cargarDisenadores);
 
-/* Botón para cambiar aspecto */
+/* Boton para cambiar aspecto */
 const botonTema = document.getElementById("aspecto");
 
 botonTema.addEventListener("click", () => {
